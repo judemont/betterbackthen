@@ -1,0 +1,7 @@
+{
+  "title": "CO₂ emissions per capita",
+  "description": "Carbon dioxide (CO₂) emissions from burning fossil fuels and industrial processes. This includes emissions from transport, electricity generation, and heating, but not land-use change.",
+  "source": "https://ourworldindata.org/grapher/co-emissions-per-capita",
+  "unit": "t/person",
+  "positive_upward_trend": false
+}

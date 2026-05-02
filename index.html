@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Better Back Then ?</title>
+  <meta name="description" content="A selection of statistics that show not everything was better back then.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="hero">
+      <p class="eyebrow">«Things were better back then...»</p>
+      <h1>Really ?</h1>
+
+      <form id="year-form" class="year-form" autocomplete="off">
+        <label for="year-input">Things were better in</label>
+        <div class="year-controls">
+          <input id="year-input" name="year" type="number" inputmode="numeric" min="1700" max="2100" step="1" value="1980" aria-describedby="year-help">
+          <button type="submit">Show</button>
+          <button id="share-button" type="button">Share link</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="results-header">
+      <h2 id="results-title">Improved statistics</h2>
+      <p id="results-count">Waiting to load.</p>
+    </section>
+
+    <section id="stats-grid" class="stats-grid" aria-live="polite"></section>
+  </main>
+
+  <template id="stat-card-template">
+    <article class="stat-card">
+      <header class="stat-card__header">
+        <div>
+          <h3 class="stat-title"></h3>
+          <p class="stat-description"></p>
+        </div>
+        <div class="stat-badge"></div>
+      </header>
+
+      <div class="stat-metrics">
+        <div>
+          <span class="metric-label">Reference year</span>
+          <strong class="metric-reference"></strong>
+        </div>
+        <div>
+          <span class="metric-label">Latest value</span>
+          <strong class="metric-latest"></strong>
+        </div>
+      </div>
+
+      <div class="chart-wrap">
+        <svg class="chart" viewBox="0 0 640 220" preserveAspectRatio="none" aria-hidden="true"></svg>
+        <div class="chart-tooltip" aria-hidden="true"></div>
+      </div>
+
+      <footer class="stat-footer">
+        <button class="stat-source" type="button" aria-label="Show source" title="Show source">
+          <span class="stat-source__icon" aria-hidden="true">i</span>
+          <span class="stat-source__text"></span>
+        </button>
+      </footer>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

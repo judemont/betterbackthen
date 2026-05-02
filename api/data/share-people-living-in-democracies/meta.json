@@ -1,0 +1,7 @@
+{
+  "title": "Share of people living in democracies",
+  "description": "The proportion of the population that lives in electoral democracies and liberal democracies. Classification by Lührmann et al. (2018) based on expert estimates by V-Dem.",
+  "source": "https://ourworldindata.org/grapher/people-living-in-democracies-autocracies",
+  "unit": "%",
+  "positive_upward_trend": true
+}

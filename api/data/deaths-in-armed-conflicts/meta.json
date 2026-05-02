@@ -1,0 +1,7 @@
+{
+  "title": "Deaths in armed conflicts",
+  "description": "Included are deaths of combatants and civilians due to fighting in armed conflicts that were ongoing that year.",
+  "source": "https://ourworldindata.org/explorers/countries-in-conflict-data",
+  "unit": "deaths",
+  "positive_upward_trend": false
+}

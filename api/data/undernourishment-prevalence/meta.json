@@ -1,0 +1,7 @@
+{
+  "title": "Undernourishment prevalence",
+  "description": "The proportion of the population that is undernourished.",
+  "source": "http://gapminder.org/39",
+  "unit": "%",
+  "positive_upward_trend": false
+}

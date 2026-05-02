@@ -1,0 +1,7 @@
+{
+  "title": "Life expectancy",
+  "description": "Period life expectancy is the number of years the average person born in a certain year would live if they experienced the same chances of dying at each age as people did that year.",
+  "source": "https://ourworldindata.org/grapher/life-expectancy",
+  "unit": "years",
+  "positive_upward_trend": true
+}

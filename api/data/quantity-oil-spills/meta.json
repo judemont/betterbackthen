@@ -1,0 +1,7 @@
+{
+  "title": "Global quantity of oil spilled from tankers",
+  "description": "Total quantity of oil spilled.",
+  "source": "https://ourworldindata.org/grapher/quantity-oil-spills",
+  "unit": "tonnes",
+  "positive_upward_trend": false
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Emissions of ozone-depleting substances",
+  "description": "Annual consumption of ozone-depleting substances. Emissions of each gas are given in ODP tonnes which accounts for the quantity of gas emitted and how strong it is in terms of depleting ozone",
+  "source": "https://ourworldindata.org/grapher/ozone-depleting-substance-consumption",
+  "unit": "ODP tonnes",
+  "positive_upward_trend": false
+}

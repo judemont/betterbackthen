@@ -1,0 +1,7 @@
+{
+  "title": "Global aviation accident fatalities",
+  "description": "Number of fatalities in aviation accidents worldwide.",
+  "source": "https://textquery.app/open-data-pages/aviation-accident-fatalities-in-world/",
+  "unit": "deaths",
+  "positive_upward_trend": false
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Estimated nuclear warhead stockpiles",
+  "description": "Stockpiles include warheads assigned to military forces, but exclude retired warheads queued for dismantlement.",
+  "source": "https://ourworldindata.org/grapher/nuclear-warhead-stockpiles-lines",
+  "unit": "warheads",
+  "positive_upward_trend": false
+}

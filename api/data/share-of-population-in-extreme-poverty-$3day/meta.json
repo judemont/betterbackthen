@@ -1,0 +1,7 @@
+{
+  "title": "Share of population living in extreme poverty ($3 a day, 2021 prices)",
+  "description": "Percentage of population living in households with an income or consumption below $3 per day.",
+  "source": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty",
+  "unit": "%",
+  "positive_upward_trend": false
+}

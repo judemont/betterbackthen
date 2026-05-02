@@ -1,0 +1,7 @@
+{
+  "title": "HIV/AIDS deaths",
+  "description": "Estimated annual number of deaths from HIV/AIDS.",
+  "source": "https://ourworldindata.org/grapher/hivaids-deaths-and-averted-due-to-art",
+  "unit": "deaths",
+  "positive_upward_trend": false
+}
