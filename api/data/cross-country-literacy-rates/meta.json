@@ -1,0 +1,7 @@
+{
+  "title": "Literacy rate",
+  "description": "Share of adults who can read and write a simple statement about their everyday life.",
+  "source": "https://ourworldindata.org/grapher/cross-country-literacy-rates",
+  "unit": "%",
+  "positive_upward_trend": true
+}

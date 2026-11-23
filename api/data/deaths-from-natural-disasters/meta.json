@@ -1,0 +1,7 @@
+{
+  "title": "Deaths from natural disasters",
+  "description": "Annual number of deaths from all forms of natural disasters.",
+  "source": "https://ourworldindata.org/grapher/deaths-from-natural-disasters",
+  "unit": "deaths",
+  "positive_upward_trend": true
+}
