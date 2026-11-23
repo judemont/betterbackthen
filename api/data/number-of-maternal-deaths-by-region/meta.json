@@ -1,0 +1,7 @@
+{
+  "title": "Number of maternal deaths by region",
+  "description": "Estimated number of deaths from maternal conditions.",
+  "source": "https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region",
+  "unit": "deaths",
+  "positive_upward_trend": false
+}
