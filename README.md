@@ -33,4 +33,4 @@ Notes:
 
 - The first two columns of the CSV are used; extra columns are ignored.
 - Set `positive_upward_trend` to `true` if it is good news when the value goes up (e.g. life expectancy), `false` otherwise. Only statistics that improved since the selected year are displayed.
-- The `source` link is shown on the statistic's card — please credit the original data provider.
+- The `source` link is shown on the statistic's card. Please credit the original data provider.
