@@ -1,0 +1,7 @@
+{
+  "title": "Share of the population with access to electricity",
+  "description": "Access to electricity means having an electricity source that can provide very basic lighting, and charge a phone or power a radio for 4 hours per day.",
+  "source": "https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity",
+  "unit": "% of population",
+  "positive_upward_trend": true
+}

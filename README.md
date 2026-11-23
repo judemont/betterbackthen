@@ -8,6 +8,16 @@ Most of the data comes from [Our World in Data](https://ourworldindata.org).
 
 Statistics are stored as plain files and loaded automatically. No registration step, no code changes needed.
 
+A helper script does most of the work for *Our World in Data* sources:
+
+```sh
+python3 scripts/add_source.py <grapher-slug>
+```
+
+It downloads the data and metadata for that grapher, keeps the `World` series, and writes the folder for you. It only asks which series to keep (when the chart has several) and whether an upward trend is good news.
+
+Manual steps:
+
 1. Create a new folder under `api/data/`, named after your statistic (e.g. `api/data/teen-birth-rates/`).
 2. Add a `data.csv` file with two columns, `year` and `value`, one point per line:
 
